@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 30px;
+}
+nav {
+  height: 90px;
+  width: 100vw;
+  background-color: rgb(190, 255, 77);
+  position: fixed;
+  font-size: 20px;
+}
+
+
+li {
+  display: inline-block;
+  padding: 24px 60px;
+  font-size: 35px;
+}
+li:hover {
+  background-color: rgb(109, 241, 68);
+}
+h1 {
+  font-size: 50px;
+  color: rgb(219, 35, 35);
+  margin: 30px;
+}
+
+main{
+    background-color: rgb(255, 234, 152);
+}
+#home {
+  padding: 4rem  60px 1rem;
+  line-height: 40px;
+  color: darkslategrey;
+}
+#About {
+  padding: 40px 60px;
+  line-height: 40px;
+  color: darkslategrey;
+}
+#Contact {
+  padding: 40px 60px;
+  line-height: 40px;
+  color: darkslategrey;
+}
+#Coures{
+  padding: 40px 60px;
+  line-height: 40px;
+  color: darkslategrey;
+}
