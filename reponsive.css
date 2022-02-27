@@ -1,0 +1,60 @@
+@media screen and (max-width: 768px) {
+  header {
+  }
+  nav {
+    height: 65px;
+    width: 100vw;
+    background-color: rgb(161, 248, 9);
+    border-bottom: 5px solid rgb(253, 18, 50);
+    padding: 6px;
+  }
+
+  li {
+    display: inline-block;
+    padding: 14px 10px;
+    font-size: 22px;
+  
+  }
+  li:hover {
+    background-color: rgb(100, 228, 61);
+    color: rgb(253, 18, 50);
+    border-right:3px solid rgb(253, 18, 50) ;
+  }
+  h1 {
+    font-size: 1.2rem;
+    color: rgb(253, 18, 50);
+    margin: 15px;
+  }
+
+  main {
+    background-color: rgb(255, 248, 219);
+  }
+  p{
+      font-size: 0.5rem;
+      line-height: 18px;
+      
+  }
+  #home {
+    padding: 1.8rem  0.5rem 0.5rem 0.5rem;
+    line-height: 30px;
+    color: darkslategrey;
+  }
+
+  #About {
+    padding: 1.8rem  0.5rem 0.5rem 0.5rem;
+    line-height: 30px;
+    color: darkslategrey;
+  }
+  #Contact {
+    padding: 1.8rem  0.5rem 0.5rem 0.5rem ;
+    line-height: 30px;
+    color: darkslategrey;
+  }
+  #Coures {
+    padding:1.8rem  0.5rem 0.5rem 0.5rem;
+    line-height: 30px;
+    color: darkslategrey;
+  }
+ 
+ 
+}
